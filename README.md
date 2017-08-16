@@ -206,3 +206,4 @@ u'B': {u'timestamp': u'2017-02-18 00:00:00', u'predictValue': 2000.0, u'actualVa
 }
 
 ```
+
